@@ -1,5 +1,7 @@
 # test-plugin
 
+## Description
+Code for plugin installation written in `main.js`
 ## Project setup
 ```
 yarn install
